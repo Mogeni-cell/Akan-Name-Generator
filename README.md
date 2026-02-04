@@ -50,5 +50,5 @@ Compatible with modern browsers including Chrome, Firefox, Safari, and Edge.
 
 ## Contact
 
-Email:okarizincy7@gmail,com
-Tell:+245-791-943-181
+- Email: okarizincy7@gmail.com
+- Phone: +254-791-943-181
