@@ -34,6 +34,10 @@ MOGENIZINCY
 
 The app is responsive and works well on mobile devices and tablets.
 
+## Accesibility note
+
+The app uses labels and clear input fields to improve accessibility for all users.
+
 ## Technologies Used
 
 - HTML
