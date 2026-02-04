@@ -29,7 +29,3 @@ MOGENIZINCY
 
 Email:okarizincy7@gmail,com
 Tell:+245-791-943-181
-
-## License
-
-MIT License
