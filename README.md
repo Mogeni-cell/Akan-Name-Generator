@@ -38,6 +38,10 @@ The app is responsive and works well on mobile devices and tablets.
 
 The app uses labels and clear input fields to improve accessibility for all users.
 
+## Browser compatibility
+
+Compatible with modern browsers including Chrome, Firefox, Safari, and Edge.
+
 ## Technologies Used
 
 - HTML
