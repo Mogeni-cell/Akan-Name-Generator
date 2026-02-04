@@ -4,6 +4,8 @@
 
 A web application that calculates a user's Akan name based on their birthdate and gender.
 
+Akan names are traditional Ghanaian names assigned based on the day of the week a person is born.
+
 ## Author
 
 MOGENIZINCY
