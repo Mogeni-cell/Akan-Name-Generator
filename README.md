@@ -17,6 +17,7 @@ MOGENIZINCY
 1. Clone the repository
 2. Open `index.html` in a browser
 3. Or view the live version at GitHub Pages:
+   https://mogeni-cell.github.io/Akan-Name-Generator/
 
 ### Example
 
