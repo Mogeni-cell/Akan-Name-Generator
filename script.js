@@ -59,7 +59,10 @@ document.getElementById("akanForm").addEventListener("submit", function (e) {
   };
 
   const akanName = names[gender.value][dayOfWeek];
-
   document.getElementById("result").textContent =
-    `You were born on a ${days[dayOfWeek]}. Your Akan name is ${akanName}.`;
+    "You were born on a " +
+    days[dayOfWeek] +
+    ". Your Akan name is " +
+    akanName +
+    ".";
 });
