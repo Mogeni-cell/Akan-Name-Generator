@@ -56,15 +56,15 @@ button:hover {
   display: inline-block;
   margin-top: 20px;
   padding: 12px 20px;
-  background: white;
-  color: rgb(77, 22, 32);
+  background: rgb(77, 22, 32);
+  color: white;
   text-decoration: none;
   font-weight: bold;
   border-radius: 5px;
 }
 
 .hero .btn:hover {
-  background: #e88c8c;
+  background: rgb(17, 1, 4);
 }
 
 section {
