@@ -15,7 +15,8 @@ MOGENIZINCY
 ## Setup Instructions
 
 1. Clone the repository
-2. Open index.html in a browser
+2. Open `index.html` in a browser
+3. Or view the live version at GitHub Pages:
 
 ## BDD
 
