@@ -29,6 +29,10 @@ MOGENIZINCY
 - Calculate day of the week
 - Display corresponding Akan name
 
+## Additional info
+
+The app is responsive and works well on mobile devices and tablets.
+
 ## Technologies Used
 
 - HTML
