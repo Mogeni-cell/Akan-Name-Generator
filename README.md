@@ -18,6 +18,11 @@ MOGENIZINCY
 2. Open `index.html` in a browser
 3. Or view the live version at GitHub Pages:
 
+### Example
+
+- Birthdate: 2026-02-03, Gender: Female → Akan Name: Akosua
+- Birthdate: 1990-06-15, Gender: Male → Akan Name: Kofi
+
 ## BDD
 
 - Input birthdate and gender
