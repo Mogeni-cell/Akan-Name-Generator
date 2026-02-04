@@ -23,11 +23,12 @@ MOGENIZINCY
 - Birthdate: 2026-02-03, Gender: Female → Akan Name: Akosua
 - Birthdate: 1990-06-15, Gender: Male → Akan Name: Kofi
 
-## BDD
+## Features
 
-- Input birthdate and gender
-- Calculate day of the week
-- Display corresponding Akan name
+- Input form with date and gender
+- Validation for day, month, and gender
+- Calculation of day of the week
+- Display Akan name
 
 ## Additional info
 
